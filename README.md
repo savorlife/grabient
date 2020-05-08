@@ -1,6 +1,6 @@
-# Grabient
+# 前端背景渐变色
 
-UI to generate linear web gradient
+可调节，可直接复制css样式
 
 ## To dos
   - [ ] add prop validation with flow
